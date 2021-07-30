@@ -18,3 +18,6 @@ using Pluto
 Pluto.run()
 ```
 - Enter the path to the notebook file you've cloned
+
+## Follow Along With Presentation
+There's a google slides presentation available at https://docs.google.com/presentation/d/1J7uZkl6OfSF7nLd7CWlW9LnSiSk1b4theB0rVB3n8Yw/edit?usp=sharing
