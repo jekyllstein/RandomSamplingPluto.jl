@@ -17,7 +17,7 @@ Pkg.add("Pluto")
 using Pluto
 Pluto.run()
 ```
-- Enter the path to the notebook file you've cloned
+- Enter the path to the notebook file you've cloned (either randomsampling.jl or materials_modeling_presentation.jl)
 
 ## Follow Along With Presentation
 There's a google slides presentation available at https://docs.google.com/presentation/d/1J7uZkl6OfSF7nLd7CWlW9LnSiSk1b4theB0rVB3n8Yw/edit?usp=sharing
